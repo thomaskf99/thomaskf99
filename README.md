@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **thomaskf99/thomaskf99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- SHS '24
+I'm Thomas
 

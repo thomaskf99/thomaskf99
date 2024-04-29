@@ -15,9 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Thomas
-
-I am a High School Programmer with experience in Python, Java, Go, & MySQL
-
-I am looking to learn more about Data Science and Data Analytics
-
+Thomas Kornfeld
